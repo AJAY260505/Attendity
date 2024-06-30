@@ -1,0 +1,6 @@
+opencv-python
+face-recognition
+cvzone  # Likely a custom library, you might need to install it manually
+numpy
+pickle
+firebase-admin
