@@ -32,7 +32,7 @@ Python - https://www.python.org/downloads/
 Necessary libraries (refer to requirements.txt for details) - You can use pip to install them: pip install -r requirements.txt
 Clone the Repository:
 Bash
-git clone https://github.com/<your-username>/Attendity.git
+git clone https://github.com/AJAY260505/Attendity.git
 Use code with caution.
 content_copy
 Installation:
